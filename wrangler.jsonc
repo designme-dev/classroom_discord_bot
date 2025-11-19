@@ -3,6 +3,7 @@
   "name": "classroom-bot",
   "main": "src/index.ts",
   "compatibility_date": "2025-11-19",
+  "logpush": true,
   // "compatibility_flags": [
   //   "nodejs_compat"
   // ],
