@@ -1,0 +1,5 @@
+# Discord Bot Token
+# このファイルを .dev.vars にコピーして、実際のTokenを設定してください
+# .dev.vars は .gitignore に含まれているため、Gitにコミットされません
+DISCORD_BOT_TOKEN=your-discord-bot-token-here
+
